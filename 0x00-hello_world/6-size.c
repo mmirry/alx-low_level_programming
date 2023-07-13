@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- *C program that prints the size of data type
+ *main -  C program that prints the size of data type
  *Return: 0
  */
 int main(void)
