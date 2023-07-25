@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *_ puts - prints a string
+ * _puts - prints a string
  * @str: the string to print
  * return: void
  */
